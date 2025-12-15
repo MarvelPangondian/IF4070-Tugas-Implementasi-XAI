@@ -91,7 +91,6 @@ This project applies **Explainable AI (XAI)** techniques to a cat vs dog image c
 
 ## Team
 
-
 **Maximilian Sulistiyo**  
 NIM: 13522061  
 GitHub: [riyorax](https://github.com/riyorax)
@@ -102,6 +101,6 @@ GitHub: [MarvelPangondian](https://github.com/MarvelPangondian)
 
 ---
 
-**Course:** IF3270 Machine Learning  
+**Course:** IF4070 Knowledge Representation and Reasoning
 **Institution:** Institut Teknologi Bandung  
 **License:** MIT
