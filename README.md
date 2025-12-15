@@ -17,7 +17,7 @@ This project applies **Explainable AI (XAI)** techniques to a cat vs dog image c
 **Key Features:**
 - EfficientNetV2-S classifier with 97% accuracy
 - 4 XAI methods: Grad-CAM, LIME, Occlusion, Integrated Gradients
-- Analysis of 10 samples comparing all methods
+- Analysis of 6 samples comparing all methods
 
 ## Links
 - [Training Notebook](https://colab.research.google.com/drive/1U9Gqai1guDB4mCcOQRu3rsXbuvkFPTRw?usp=sharing)
